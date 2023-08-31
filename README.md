@@ -3,7 +3,7 @@
 
 
 
-#### [Linux, Mac OS]
+#### [Python venv](Linux, Mac OS)
 
 
 - Make venv environment [Linux, Mac os.]   
