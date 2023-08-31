@@ -9,8 +9,8 @@
 - Make venv environment [Linux, Mac os.]   
 python -m venv my_env
 
-[activate virtual environment].  
+- [activate virtual environment].  
 source my_env/bin/activate
 
-[deactivate virtual environment].   
+- [deactivate virtual environment].   
 deactivate
