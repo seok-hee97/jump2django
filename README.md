@@ -7,10 +7,17 @@
 
 
 - Make venv environment [Linux, Mac os.]   
-python -m venv my_env
+python -m venv mysite
 
 - [activate virtual environment].  
-source my_env/bin/activate
+source mysite/bin/activate
 
 - [deactivate virtual environment].   
 deactivate
+
+
+
+admin/
+
+ID: admin
+PW: 111
