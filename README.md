@@ -16,8 +16,8 @@ source mysite/bin/activate
 deactivate
 
 
-
+<!-- 
 admin/
 
 ID: admin
-PW: 111
+PW: 111 -->
